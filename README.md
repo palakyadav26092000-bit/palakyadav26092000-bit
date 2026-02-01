@@ -11,8 +11,7 @@ I specialize in cleaning messy data and finding the "why" behind the numbers. I 
 
 ---
 ## 🌐 Socials:
-[![LinkedIn](www.linkedin.com/in/
-palak-yadav-399697212
+[![LinkedIn](https://www.linkedin.com/in/palak-yadav-399697212/
 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palakyadav26092000@gmail.com) 
 
 # 💻 Tech Stack:
