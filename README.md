@@ -1,4 +1,15 @@
+# Hi there, I'm Palak Yadav 👋
+## Data Analyst | Insight Seeker | Python Enthusiast
 
+### 📊 About Me
+I specialize in cleaning messy data and finding the "why" behind the numbers. I love building dashboards that tell a story and writing efficient SQL queries that make data engineering teams proud.
+
+- 🔭 I’m currently working on **[Mobile Sales Dashboard]**
+- 🧪 I’m currently diving deep into **Python Learning**
+- 💬 Ask me about **Exploratory Data Analysis (EDA) and Data Storytelling**
+- 📫 Reach me at: **[palakyadav26092000@gmail.com or https://www.linkedin.com/in/palak-yadav-399697212/]**
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/palak-yadav-399697212/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palakyadav26092000@gmail.com) 
 
